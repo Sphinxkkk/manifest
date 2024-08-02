@@ -1,0 +1,20 @@
+{
+    "name": "PoCoins",
+    "description": "A brief description of your app",
+    "url": "https://pewcoins.xyz/",
+    "icons": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
+            "type": "image/png",
+            "sizes": "800x600"
+        }
+    ],
+    "permissions": [
+        "ton_address",
+        "ton_sign",
+        "ton_send_transaction"
+    ],
+    "supportedProtocols": [
+        "tonconnect-2.0"
+    ]
+}
