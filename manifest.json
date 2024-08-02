@@ -12,7 +12,7 @@
     "permissions": [
         "ton_address",
         "ton_sign",
-        "ton_send_transaction",
+        "ton_send_transaction"
     ],
     "supportedProtocols": [
         "tonconnect-2.0"
